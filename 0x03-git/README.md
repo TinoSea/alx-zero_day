@@ -1,1 +1,1 @@
-My readme file is not empty
+Starting to code today, so cool
